@@ -4,7 +4,7 @@
 
 The dataset provided contains movie reviews given by Amazon customers. Reviews were given between May 1996 and July 2014.
 
-Data Dictionary
+<h4>Data Dictionary</h4>
 UserID – 4848 customers who provided a rating for each movie
 Movie 1 to Movie 206 – 206 movies for which ratings are provided by 4848 distinct users
 
