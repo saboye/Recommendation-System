@@ -1,6 +1,6 @@
-# Recommendation-System
+<h1> Recommendation-System</h1>
 
-DESCRIPTION
+<h3>DESCRIPTION<h3>
 
 The dataset provided contains movie reviews given by Amazon customers. Reviews were given between May 1996 and July 2014.
 
@@ -12,7 +12,7 @@ Data Considerations
 - All the users have not watched all the movies and therefore, all movies are not rated. These missing values are represented by NA.
 - Ratings are on a scale of -1 to 10 where -1 is the least rating and 10 is the best.
 
-Analysis Task
+<h4>Analysis Task</h4>
 - Exploratory Data Analysis:
 
 Which movies have maximum views/ratings?
